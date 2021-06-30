@@ -1,0 +1,6 @@
+INSERT INTO products (name, price, quantity, image_url, colour, description)
+VALUES ('Kio Yamoto KP244U', 60000, 25, 'https://images.squarespace-cdn.com/content/v1/584c5fa1b3db2bac50384e86/1587660073972-YN3DC11XRZ81AUP2OO3Y/BAA2698C-12C1-4821-A164-5703C09E4E68?format=1500w', 'black', 'KIO YAMATO OPTICS is luxury eyewear with sophistication and foresight, dedicated to superior quality and committed to exceptional customer service. With the timeless character of our products, we lay down the foundation for brand recognition worldwide.
+
+KIO translates as pure and clean. Pure and clean undoubtedly is the essence of this collection. The natural, refined lines of the design accent the concept of lightweight titanium and truly unique, custom-made acetate.
+
+YAMATO is the name of an ancient Japanese province, better known as “The Court of Yamato”, which literally signifies “The Great Peace”. YAMATO, a narrow plain situated 20 to 30 kilometers from Kyoto and Osaka, holds great archeological wealth, and thus symbolizes with eloquence this first Japanese state whose power sprang from wisdom and grace.')
